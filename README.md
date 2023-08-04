@@ -1,22 +1,23 @@
 **LivingLab Scale FlutterFlow Component**
 
-Table of Components
-
-[About [1](#about)](#about)
-
-[Flutter Flow Scale component usage
-[1](#flutter-flow-scale-component-usage)](#flutter-flow-scale-component-usage)
-
-[First:- Prerequisites
-[1](#first--prerequisites)](#first--prerequisites)
-
-[Second: - Usage [2](#second---usage)](#second---usage)
-
-[Third: - Customizing your Scale component
-[2](#third---customizing-your-scale-component)](#third---customizing-your-scale-component)
-
-[What you should expect
-[5](#what-you-should-expect)](#what-you-should-expect)
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about">About</a>
+    </li>
+    <li>
+      <a href="#flutter-flow-scale-component-usage">Flutter Flow Scale component usage</a>
+      <ul>
+        <li><a href="#first--prerequisites">First:- Prerequisites</a></li>
+        <li><a href="#second---usage">Second: - Usage</a></li>
+        <li><a href="#third---customizing-your-scale-component">Third: - Customizing your Scale component</a></li>
+      </ul>
+    </li>
+    <li><a href="#what-you-should-expect">What you should expect</a></li>
+  </ol>
+</details>
 
 # **About**
 
@@ -52,8 +53,7 @@ Once you get your Api key you are now ready to use the scale component.
 You will find the scale inside the scales tab in FlutterFlow, to use it
 you can drag and drop it inside your widget tree wherever you need it.
 
-![](assets/images/1.jpg){width="2.6145833333333335in"
-height="5.0in"}
+![](assets/images/1.jpg)
 
 ## **Third: - Customizing your Scale component**
 
@@ -63,11 +63,9 @@ After that you will have different options to customize
 
 the scale to your own needs.
 
-![](assets/images/2.jpg){width="3.5104166666666665in"
-height="5.0in"}
+![](assets/images/2.jpg)
 
-![](assets/images/3.jpg){width="3.0in"
-height="5.0in"}
+![](assets/images/3.jpg)
 
 You can customize the following elements of the scale component
 
@@ -106,7 +104,5 @@ Below this you will find an example implementation of the Scale
 component and what you would see in your app before and after receiving
 the responses.
 
-![](assets/images/4.jpg){width="2.3229166666666665in"
-height="5.0in"}
-![](assets/images/5.jpg){width="2.3125in"
-height="5.0in"}
+![](assets/images/4.jpg)
+![](assets/images/5.jpg)
